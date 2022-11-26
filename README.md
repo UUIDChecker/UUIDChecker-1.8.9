@@ -20,7 +20,7 @@ Skys Dupe Checker Download: A side mod of Skytils/Sbe, An amazing Dupe Checker. 
 
 
 
--Update 2.1.3
+-Update 1.0
 
 Skytils Support, Better api, Faster response time, Cleaner GUI, 1.7.5 is here.
 
