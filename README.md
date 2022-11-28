@@ -1,4 +1,4 @@
-## SkyblockDupeChecker
+## UUIDChecker 1.8.9
 
 -itemData
 
