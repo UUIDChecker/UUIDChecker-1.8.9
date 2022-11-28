@@ -15,7 +15,7 @@ This mod adds High-Value Dupe checker into your skyblock experience.
 
 it show you the UUID and the nbt of the item
 
-Skys Dupe Checker Download: A side mod of Skytils/Sbe, An amazing Dupe Checker. although SBE and Skytils are better in different aspects, NBT is better overall for dupe checking, as skytils and SBE's api lacks in quality.
+UUIDChecker Download: A side mod of Skytils/Sbe, An amazing Dupe Checker. although SBE and Skytils are better in different aspects, NBT is better overall for dupe checking, as skytils and SBE's api lacks in quality.
 
 
 
